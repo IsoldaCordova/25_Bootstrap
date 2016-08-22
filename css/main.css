@@ -1,0 +1,97 @@
+/*estilo específico*/
+a{
+	color: black;
+}
+.image1{
+	width:100%;
+}
+hr{
+	color:  #808080;
+}
+.dis{
+	display: inline-block;
+}
+.bg-gray{
+	background-color: #CCCCCC;
+}
+/*ESPACIOS*/
+.pt{
+	padding-top: 6%;
+}
+.mt{
+	margin-top: -7%;
+}
+.mt2{
+	margin-top: 15%;
+}
+.mt4{
+	margin-top: 5%;
+}
+.mt5{
+	margin-top: -26%;
+}
+.mt6{
+	margin-top: 26%;
+}
+.ml{
+	margin-left: 1%;
+}
+.ml2{
+	margin-left: 4%;
+}
+.pm{
+	padding: 1%;
+}
+.pm2{
+	padding: 2%;
+}
+.pm3{
+	padding: 0% 0% 40%  30%;
+}
+.pr{
+	padding-right: 10%;
+}
+.pl{
+	padding-left: 10%;
+}
+/*tamaños*/
+.w1{
+	width: 50%;
+}
+.wm{
+	width:25%;
+}
+.dos{
+	width: 60%;
+}
+/*color textos*/
+.gray{
+	color:  #808080;
+}
+/*modificación*/
+.bg-primary{
+	width: 55%;
+	background-color: gray;
+}
+.dos{
+	width: 60%;
+}
+.bg-info{
+	background-color: black;
+	color: white;
+	width: 30%;
+}
+/*MEDIA*/
+/*// Hasta smartphones de 480px*/
+  @media (max-width: 480px) {
+
+  }
+ 
+  /*// de Smartphones a Tablets*/
+  @media (max-width: 768px) { 
+   }
+ 
+  /*// de Tablets a pantallas de desktops*/
+  @media (min-width: 768px) and (max-width: 980px) {
+
+  }
